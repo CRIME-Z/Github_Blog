@@ -1,3 +1,2 @@
-#EOSONES个人博客
-
-本博客前端使用Bootstrap框架设计，后端使用Python-3.7，基于Django-2.1搭建
+#Github博客
+基于的Issue与Projects搭建的总结知识博客
